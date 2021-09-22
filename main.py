@@ -1,7 +1,7 @@
 #WRITE YOUR CODE IN THIS FILE
 
 #define product3Plus1
-def product3Add1(a, b, c):
+def product3Plus1(a, b, c):
 
     return((a * b * c) + 1)
 
